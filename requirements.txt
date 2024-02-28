@@ -1,0 +1,16 @@
+ipykernel
+ipython
+jupyter
+jupyterlab
+missingno
+numpy
+pandas
+pyarrow
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+wheel
+keras
+plotly
