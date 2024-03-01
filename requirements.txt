@@ -11,6 +11,5 @@ matplotlib
 seaborn
 scikit-learn
 statsmodels
-wheel
-keras
-plotly
+pyjanitor
+empiricaldist
